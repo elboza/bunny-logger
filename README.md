@@ -22,7 +22,7 @@ log.set_log(boolean);
 ```
 'use strict';
 
-const log = require('./logger-simple.js');
+const log = require('bunny-logger');
 
 function output(){
 	log.info('info output...');

@@ -1,6 +1,6 @@
 'use strict';
 
-const log = require('./logger-simple.js');
+const log = require('./bunny-logger.js');
 
 function output(){
 	log.info('info output...');

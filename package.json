@@ -1,8 +1,8 @@
 {
-  "name": "logger-simple",
+  "name": "bunny-logger",
   "version": "0.0.1",
   "description": "",
-  "main": "logger-simple.js",
+  "main": "bunny-logger.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -10,7 +10,7 @@
   "license": "Beerware",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/elboza/logger-simple.git"
+    "url": "git+https://github.com/elboza/bunny-logger.git"
   },
   "dependencies": {
     "bunyan": "^1.8.12",
@@ -23,5 +23,5 @@
     "output",
     "console"
   ],
-  "homepage": "https://github.com/elboza/logger-simple.git"
+  "homepage": "https://github.com/elboza/bunny-logger.git"
 }
