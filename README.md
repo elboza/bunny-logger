@@ -1,4 +1,4 @@
-# logger-simple
+# bunny-logger
 a simple logger package for nodeJS
 
 easely change you output mode without changing your code.
