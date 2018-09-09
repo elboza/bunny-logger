@@ -1,0 +1,27 @@
+{
+  "name": "logger-simple",
+  "version": "0.0.1",
+  "description": "",
+  "main": "logger-simple.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Fernando Iazeolla",
+  "license": "Beerware",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/elboza/logger-simple.git"
+  },
+  "dependencies": {
+    "bunyan": "^1.8.12",
+    "bunyan-prettystream": "^0.1.3"
+  },
+  "keywords": [
+    "logger",
+    "log",
+    "bunyan",
+    "output",
+    "console"
+  ],
+  "homepage": "https://github.com/elboza/logger-simple.git"
+}
